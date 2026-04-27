@@ -1,8 +1,8 @@
 ## 👋 Olá! Eu sou o Rafael Blemer
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=Rblemer&show_icons=true&theme=dark"/>
-  <img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rblemer&hide_progress=true&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats-fast.vercel.app/api?username=Rblemer&show_icons=true&theme=dark"/>
+  <img height="250em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Rblemer&stats_formar=bytes&theme=dark"/>
 </div>
 
 ## 🛠️ Tecnologias do meu dia a dia
